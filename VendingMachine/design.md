@@ -1,6 +1,3 @@
-# Vending-Machine
-Simple C# console project implementing Vending machine functionality
-
 ## Vending machine design 
 
 We will be designing a vending machine in this project.
